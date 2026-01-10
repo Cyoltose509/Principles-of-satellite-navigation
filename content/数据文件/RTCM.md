@@ -1,0 +1,1 @@
+- 国际海事无线电技术委员会(Radio Technical Commission for Maritime services，RTCM)制定了差分全球导航系统服务标准

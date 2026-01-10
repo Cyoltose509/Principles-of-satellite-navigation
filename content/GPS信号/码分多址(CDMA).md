@@ -1,0 +1,2 @@
+- Code Division Multiple Access (CDMA)
+- 利用码序列相关性实现的多址通信，可根据不同的[[粗捕获码|C/A码]]来区分不同的卫星

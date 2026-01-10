@@ -1,0 +1,2 @@
+- Frequency Division Multiple Access (FDMA)
+- 与[[码分多址(CDMA)]]不同，利用频率实现多址通信，现已不使用
