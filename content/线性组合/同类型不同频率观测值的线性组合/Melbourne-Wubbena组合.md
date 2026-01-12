@@ -26,7 +26,7 @@
 - $f_{1}L_{1}-f_{2}L_{2}=f_{1}\left(\rho+c\delta t_{r}-c\delta t_{s}+I_{1}+T+\lambda_{1}N_{1}\right)-f_{2}\left(\rho+c\delta t_{r}-c\delta t_{s}+I_{2}+T+\lambda_{2}N_{2}\right)$
 		$=\left(f_{1}-f_{2}\right)\left(\rho+c\delta t_{r}-c\delta t_{s}+T\right)-\left(f_{1}I_{1}-f_{2}I_{2}\right)+f_{1}\lambda_{1}N_{1}-f_{2}\lambda_{2}N_{2}$
 	- $f_1 \lambda_1 = f_2 \lambda_2 = c$, $f_1 \lambda_1 N_1 - f_2 \lambda_2 N_2 = c(N_1 - N_2)$
-- $f_1 P_1 + f_2 P_2 = f_1 (\rho + c\delta t_r - c\delta t_s - I_1 + T) + f_2 (\rho + c\delta t_r - c\delta t_s - I_2 + T) \tag{2}$
+- $f_1 P_1 + f_2 P_2 = f_1 (\rho + c\delta t_r - c\delta t_s - I_1 + T) + f_2 (\rho + c\delta t_r - c\delta t_s - I_2 + T)$
 		$= (f_1 + f_2)(\rho + c\delta t_r - c\delta t_s + T) + (f_1 I_1 + f_2 I_2)$
 - 由$L_{MW} = \frac{1}{f_{1}-f_{2}}(f_{1}L_{1}-f_{2}L_{2})-\frac{1}{f_{1}+f_{2}}(f_{1}P_{1}+f_{2}P_{2})$得
 	- $L_{MW} = \frac{1}{f_{1}-f_{2}}[(f_{1}-f_{2})(\rho+c\delta t_{r}-c\delta t_{s}+T)-(f_{1}I_{1}-f_{2}I_{2})+c(N_{1}-N_{2})]-\frac{1}{f_{1}+f_{2}}[(f_{1}+f_{2})(\rho+c\delta t_{r}-c\delta t_{s}+T)+(f_{1}I_{1}+f_{2}I_{2})]$
