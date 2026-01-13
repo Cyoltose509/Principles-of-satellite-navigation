@@ -1,0 +1,3 @@
+- ITRF（International Terrestrial Reference Frame）
+- 地心、地固、全球统一的高[[精度]]坐标系
+- [[精密星历]]采用的坐标系统
